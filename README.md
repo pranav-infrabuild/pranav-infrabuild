@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 Current Focus
-- 🔧 Working on a **two-tier web application**
+- 🔧 Let’s Decode DevOps Together – #DailyDose [![Substack Blog](https://img.shields.io/badge/Substack-PranavInfraBuild-orange?logo=substack)](https://substack.com/@pranavinfrabuild)
 - 🌱 Learning **Terraform** to master Infrastructure as Code (IaC)
 - ⚙️ Sharpening **CI/CD pipeline design**
 
